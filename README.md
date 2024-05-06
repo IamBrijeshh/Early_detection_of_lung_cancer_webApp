@@ -15,6 +15,6 @@
         recent decades, late-stage diagnosis rates have remained stubbornly high. To decrease death rates, 
         machine learning algorithms can be used. Based on the symptoms, it will predict the likelihood 
         that a disease will develop.
-
+      <a href="https://brijeshvj-early-det-early-detection-of-lungcancer-webapp-rpq8ia.streamlit.app/"> Application link...</a>
   </body>
 </html>
